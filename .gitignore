@@ -1,0 +1,5 @@
+sm_build
+sm_output
+debug
+generated/regressionvs2022.sln
+tp/slang/Release/lib/compiler-core.lib
